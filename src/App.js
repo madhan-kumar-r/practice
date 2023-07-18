@@ -19,7 +19,7 @@
            Learn React
          </a>
 
-         <p>Learning React with React Docs</p>
+         <p>Learning with React Docs</p>
        </header>
      </div>
    );
