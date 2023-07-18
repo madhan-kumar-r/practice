@@ -18,7 +18,7 @@
          >
            Learn React
          </a>
-              const a = 10;
+             
          <p>Learning with React Docs</p>
        </header>
      </div>
